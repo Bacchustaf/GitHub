@@ -1,2 +1,0 @@
-# Electromagnet
-Master Project 
